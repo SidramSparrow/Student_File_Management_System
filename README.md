@@ -1,4 +1,5 @@
 # Student File Management System
+<img width="649" height="279" alt="image" src="https://github.com/user-attachments/assets/468c67ec-2088-4c21-a5fc-8b9dd92ce32b" />
 
 ## Overview
 
@@ -76,8 +77,5 @@ The project follows a simple layered architecture:
 * Database integration using JDBC
 * Spring Boot REST API migration
 
-## Author
+<img width="513" height="176" alt="image" src="https://github.com/user-attachments/assets/32e0e0c8-8d1c-4041-89f2-4f558dbce661" />
 
-**Sidram S B**
-
-GitHub: https://github.com/SidramSparrow
